@@ -1,1 +1,2 @@
-# Starting With Python By Ilagan and Monet and Sudario
+def add(x, y):
+    return x + y
